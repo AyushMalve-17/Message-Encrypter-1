@@ -1,0 +1,5 @@
+{
+  "name": "SecretCrypt - Beginner Friendly Message Encrypter",
+  "description": "A simple, educational tool for encrypting and decrypting messages using character shifting logic. Learn the basics of cryptography through a visual, interactive interface.",
+  "requestFramePermissions": []
+}
